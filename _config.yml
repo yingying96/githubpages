@@ -1,10 +1,10 @@
 theme: jekyll-theme-minimal
 title: Guide to hats-ci
 description: >
-  <a href="#Installing-hats-ci">Installing hats-ci</A>
+  <a href="#installing-hats-ci">Installing hats-ci</A>
   <br><br>
-  <a href="#Running-hats-ci">Running hats-ci</A>
+  <a href="#running-hats-ci">Running hats-ci</A>
   <br><br>
-  <a href="#Android-Automation-using-Appium">Android Automation using Appium</A> 
+  <a href="#android-automation-using-appium">Android Automation using Appium</A> 
   <br><br>
-  <a href="#Browser-Automation-using-Robotcorder">Browser Automation using Robotcorder</A> 
+  <a href="#browser-automation-using-robotcorder">Browser Automation using Robotcorder</A> 
