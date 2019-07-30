@@ -1,9 +1,13 @@
 theme: jekyll-theme-minimal
-title: guide to hats-ci
+title: Guide to hats-ci
 description: >
   Installing hats-ci
   <br><br>
   Running hats-ci
+  <br><br>
+  Android Automation using Appium Desktop
+  <br><br>
+  Browser Automation using Robotcorder
   <br><br>
   
   
